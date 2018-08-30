@@ -1,0 +1,1 @@
+{"name": "test-3", "description": "A longer description with less important keywords like the.", "repository": "https://github.com/TylerCrowdboticsTest/tylerpotatocom-tyler-5", "keywords": ["web", "django", "keywords"], "env": {"DEBUG_COLLECTSTATIC": "1"}, "addons": ["heroku-postgresql:hobby-dev", "sendgrid:starter"], "scripts": {"postdeploy": "./postdeploy.sh"}}
